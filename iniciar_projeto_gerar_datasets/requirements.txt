@@ -1,0 +1,7 @@
+pdfplumber
+numpy
+matplotlib
+pandas
+opencv-python
+Wand
+Pillow
